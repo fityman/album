@@ -1,2 +1,0 @@
-# album
-A kezdetek kezdete
